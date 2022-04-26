@@ -6,7 +6,7 @@ function ExampleComponent() {
     <div className="example">
       <img
         src="https://s3.amazonaws.com/ironboard-learn/sunglasses.gif"
-        alt="a deeply impressed man, perhaps thinking 'whoa'"
+        alt="a deeply impressed man, perhaps thinking 'Whoa!'"
       />
       <p>Whoa!</p>
     </div>
